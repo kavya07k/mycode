@@ -130,13 +130,132 @@
    -> python - array exercises
     
 18. python filehandling
+   -> python - file handling
+   -> python - write to file
+   -> python - read files
+   -> python - renaming and deleting files
+   -> python - dictionaries
+   -> python - file methods
+   -> python - os file/directory methods
+   -> python - os path methods
     
 20. object oriented programming
-21. python errors and exceptions
-22. python multithreading
-23. python synchronization
-24. python networking
-25. python libraries
-26. python miscellenous
-27. python advanced concepts
+   -> python - oops concepts
+   -> python - classes & objects
+   -> python - class attributes
+   -> python - class methods
+   -> python -  static methods
+   -> python - constructors
+   -> python - access modifiers
+   -> python - inheritance
+   -> python - polymorphism
+   -> python - method overriding
+   -> python - method overloading
+   -> python - dynamic binding
+   -> python - dynamic typing
+   -> python - abstraction
+   -> python - encapsulation
+   -> python - interfaces
+   -> python - packages
+   -> python - inner classes
+   -> python - anonymous class and objects
+   -> python - singleton class
+   -> python - wrapper classes
+   -> python - enums
+   -> python - reflection
+
+22. python errors and exceptions
+    -> python - syntax errors
+   -> python - exceptions
+   -> python - try-except block
+   -> python - try-finally block
+   -> python - raising exceptions
+   -> python - exception chaining
+   -> python - nested try block
+   -> python - user-defined exception
+   -> python - logging
+   -> python - assertions
+   -> python - built-in exceptions
+
+24. python multithreading  
+   -> python - multithreading
+   -> python - thread lifecycle
+   -> python - creating a thread
+   -> python - starting a thread
+   -> python - joining threads
+   -> python - naming thread
+   -> python - thread scheduling
+   -> python - thread pools
+   -> python - main thread
+   -> python - thread priority
+   -> python - daemon threads
+   -> python - synchronizing threads
+
+26. python synchronization  
+   -> python - inter-thread communication
+   -> python - thread deadlock
+   -> python - interrupting a thread
+
+28. python networking
+       -> python - networking
+      -> python - socket programming
+      -> python - URL processing
+      -> python - generics
+
+30. python libraries
+    -> NumPy tutorial
+   -> pandas tutorial
+   -> scipy tutorial
+   -> matplotlib
+   -> Django tutorial
+   -> OpenCV tutorial
+
+32. python miscellenous
+    -> python - Date & Time
+   -> python - Maths
+   -> python - Iterators
+   -> python - generators
+   -> python - closures
+   -> python - decorators
+   -> python - recursion
+   -> python - reg expressions
+   -> python - PIP
+   -> python - Database access
+   -> python - Weak references
+   -> python - serialization
+   -> python - templating
+   -> python -  output formatting
+   -> python - performance measurement
+   -> python - data compression
+   -> python - CGI programming
+   -> python - XML processing
+   -> python - GUI programming
+   -> python - command-line arguments
+   -> python - docstrings
+   -> python - JSON
+   -> python - sending email
+   -> python - further extensions
+   -> python - Tools/utilities
+   -> python - GUIs
+
+34. python advanced concepts
+    -> python - Abstract Base classes
+   -> python - custom exceptions
+   -> python - higher order functions
+   -> python - object internals
+   -> python - memory management
+   -> python - metaclasses
+   -> python - metaprogramming with metaclasses
+   -> python - mocking and stubbing
+   -> python - monkey patching
+   -> python - signal handling
+   -> python - type hints
+   -> python - automation tutorial
+   -> python - humanize package
+   -> python - context managers
+   -> python - coroutines
+   -> python - descriptors
+   -> python - Diagnosing and fixing memory leaks
+   -> python - immutable data structures
+
     
