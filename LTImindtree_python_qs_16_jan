@@ -1,0 +1,25 @@
+Q1. find the second largest number from list [2,5,6,6,7]
+
+nums = [2, 5, 6, 6, 7]
+
+unique_nums = list(set(nums))
+unique_nums.sort()
+
+second_largest = unique_nums[-2]
+print(second_largest)
+
+Q2. sentence = "I have a dog and I take him for a walk everyday."
+input1 = "dog"
+input2 = "walk"
+output should be print everything comes between input1 and input2
+
+sentence = "I have a dog and I take him for a walk everyday."
+input1 = "dog"
+input2 = "walk"
+
+start = sentence.find(input1) + len(input1)
+end = sentence.find(input2)
+
+result = sentence[start:end].strip()
+print(result)
+
